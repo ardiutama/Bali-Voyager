@@ -1,0 +1,7 @@
+{
+  "name": "Bali Voyager",
+  "description": "Explore the beauty of Bali with intelligent tour recommendations and real-time map visualization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
